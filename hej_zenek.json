@@ -3,10 +3,8 @@
   "wake_word": "Hej Zenek",
   "author": "Zenek Custom",
   "website": "",
-  "model": "hej_zenek.tflite",
-  "trained_languages": [
-    "pl"
-  ],
+  "model": "https://raw.githubusercontent.com/rafalczyzyk/zenek-wakeword/main/hej_zenek.tflite",
+  "trained_languages": ["pl"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.95,
