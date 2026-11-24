@@ -2,8 +2,8 @@
   "type": "micro",
   "wake_word": "Hej Zenek",
   "author": "Zenek Custom",
-  "website": "",
-  "model": "https://raw.githubusercontent.com/rafalczyzyk/zenek-wakeword/main/hej_zenek.tflite",
+  "website": "https://github.com/rafalczyzyk/zenek-wakeword",
+  "model": "hej_zenek.tflite",
   "trained_languages": ["pl"],
   "version": 2,
   "micro": {
